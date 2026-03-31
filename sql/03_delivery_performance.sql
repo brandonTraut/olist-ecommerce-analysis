@@ -1,3 +1,5 @@
+CREATE VIEW v_delivery_performance
+AS
 SELECT order_id
 	,order_date
 	,delivered_date
